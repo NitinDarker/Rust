@@ -1,0 +1,34 @@
+# === Rust ===
+/target/
+target/
+/**/*.rs.bk
+
+# === Cargo ===
+/Cargo.lock
+/.cargo/
+/.cargo/config.toml
+
+# === Windows Build Artifacts ===
+*.exe
+*.pdb
+*.dll
+*.lib
+*.obj
+*.exp
+
+# === IDEs and Editors ===
+.vscode/
+/*.code-workspace
+.idea/
+*.iml
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === Misc ===
+*.log
+*.tmp
+*.swp
