@@ -4,8 +4,8 @@ fn main() {
     // to reassign, use mut
     // by-default a let variable is immutable
 
-    // let x = 4;  // works 
     // x = 4;  // doesn't work
+    // let x = 4;  // works 
     
     // let mut x = 5;
     // x = 3; // Now works
